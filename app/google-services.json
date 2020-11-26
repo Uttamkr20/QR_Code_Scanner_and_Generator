@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9082478338",
+    "firebase_url": "https://qr-code-scanner-and-gene-e0b1d.firebaseio.com",
+    "project_id": "qr-code-scanner-and-gene-e0b1d",
+    "storage_bucket": "qr-code-scanner-and-gene-e0b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9082478338:android:585ec2a0dcaa9b23bf6c1b",
+        "android_client_info": {
+          "package_name": "com.getdigitech.qrcodescannergenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9082478338-ctph2gkvffo9a2shrpq2mavtupf62ovl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getdigitech.qrcodescannergenerator",
+            "certificate_hash": "a6fa3c64483f5244963756bc89267a8f57db5ece"
+          }
+        },
+        {
+          "client_id": "9082478338-ce6l75rb92on66tegd7jfooksf4jp5dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWG9PM3Y4-06RYsRAE1kgffiqjYuLqUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9082478338-ce6l75rb92on66tegd7jfooksf4jp5dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
