@@ -1,4 +1,4 @@
-# QR_Code_Scanner_and_Generator
+# QR_Code_Scanner_and_Generator. 
 
 
 Project Name: QR code Scanner & Generator.
